@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Motius's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h3><code>motius@github ~ $ whoami</code></h3>
 
 <table>
